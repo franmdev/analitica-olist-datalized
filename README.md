@@ -44,7 +44,9 @@ Power BI    Modelos ML
 
 ## 3. Metodología de Procesamiento (ETL)
 
-El procesamiento se encuentra detallado en el notebook `notebooks/01_ETL_y_Feature_Engineering.ipynb`. Los hitos principales son:
+El procesamiento detallado se encuentra disponible en el siguiente notebook:
+
+👉 [**Ver Código Fuente (ETL & Feature Engineering)**](notebooks/01_ETL_y_Feature_Engineering.ipynb)
 
 ### A. Ingesta y Enriquecimiento
 
