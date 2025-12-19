@@ -98,7 +98,7 @@ El análisis visual confirma que:
 - **Operación vs. Distancia:** El gráfico de dispersión revela una alta variabilidad en distancias cortas (<500km), indicando que una parte significativa de la fricción **no es el transporte, sino el procesamiento en bodega (Seller Processing Time).**
 - **Estacionalidad:** Se observan picos de demora en meses clave (Black Friday / Navidad), sugiriendo saturación logística más allá de la distancia física.
 
-👉 [Ver Dashboard Interactivo en Power BI](#) *(https://app.powerbi.com/view?r=eyJrIjoiZTY0NmFhNzYtZWRiYy00YTk1LTlkYzQtYWMwNmJjZTU1ZGFhIiwidCI6ImJlMzI2OWE1LWEzOTAtNGE5MC05MWUwLWM5ZjQ5NTEyYWI5OSJ9)*
+👉 [Ver Dashboard Interactivo en Power BI](https://app.powerbi.com/view?r=eyJrIjoiZTY0NmFhNzYtZWRiYy00YTk1LTlkYzQtYWMwNmJjZTU1ZGFhIiwidCI6ImJlMzI2OWE1LWEzOTAtNGE5MC05MWUwLWM5ZjQ5NTEyYWI5OSJ9)
 
 *(Nota: El dashboard es público y no requiere credenciales de acceso)*
 
@@ -150,4 +150,4 @@ Abrir `notebooks/01_ETL_y_Feature_Engineering.ipynb` y ejecutar las celdas secue
 Ingeniero Civil Industrial & Informático | UTFSM
 
 - [LinkedIn](https://www.linkedin.com/in/mora-francisco/)
-- [Portafolio Web](#) *(https://franciscomora.dev/)*
+- [Portafolio Web](https://franciscomora.dev/)
